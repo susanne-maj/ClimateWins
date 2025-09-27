@@ -1,5 +1,6 @@
 # ClimateWins
-ClimateWins - Analyze climate change overtime with Machine Learning functions
+ClimateWins - Analyze climate change overtime with Machine Learning functions. Unsupervized Machine Learning example.
+
 Due to the increase in extreme weather events, ClimateWins wanted to assess the tools availble to categorize and predict the weather in Europe. They want to know if Machine Learning is a suitable tool to use for this. The objective was to create a model that can predict the weather in the future and that can answer a set of key questions:
 
 - How is Machine Learning used and is it applicable to weather data?
