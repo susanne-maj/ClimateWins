@@ -27,6 +27,7 @@ TensorFlow, Keras – building CNN, RNN, and GAN models
 Matplotlib, Seaborn, Plotly – visualising trends, clusters, and predictions
 
 ## Final presentation
-Results summarized in a presentation.
+Results summarized in a presentation for ClimateWins: [Link text](https://github.com/susanne-maj/ClimateWins/tree/main/Presentation).
+
 
 
