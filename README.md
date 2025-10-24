@@ -10,7 +10,7 @@ Due to the increase in extreme weather events, the non-profit organization Clima
 
 ## Data 
 - European Climate Assessment & Project data set.
-- The data set includes weather observations from 18 different weather stations across Europe. The data is from late 1800s to 2022. Recordings are available for almost every day. Data regarding temperature, wind speed, snow,  global radiation amongst others were recorded. <img width="3942" height="70" alt="image" src="https://github.com/user-attachments/assets/e5c307a1-24cc-460c-8b96-1ebc8ca1846a" />
+- The data set includes weather observations from 18 different weather stations across Europe. The data is from late 1800s to 2022. Recordings are available for almost every day. Data regarding temperature, wind speed, snow,  global radiation amongst others were recorded. 
 
 ## Methods:
 
