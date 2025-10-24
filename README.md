@@ -19,12 +19,12 @@ Due to the increase in extreme weather events, the non-profit organization Clima
 - Hyperparameter Tuning: Grid search and manual optimisation for model performance, analysis of hyperparameter impact on accuracy. 
 
 ## Tools used:
-Python – data preprocessing, ML, and model evaluation
-Jupyter Notebook – interactive development and visualisation
-Pandas, NumPy – data manipulation and cleaning
-Scikit-learn – clustering, PCA, random forests, and SVM
-TensorFlow, Keras – building CNN, RNN, and GAN models
-Matplotlib, Seaborn, Plotly – visualising trends, clusters, and predictions
+- Python – data preprocessing, ML, and model evaluation
+- Jupyter Notebook – interactive development and visualisation
+- Pandas, NumPy – data manipulation and cleaning
+- Scikit-learn – clustering, PCA, random forests, and SVM
+- TensorFlow, Keras – building CNN, RNN, and GAN models
+- Matplotlib, Seaborn, Plotly – visualising trends, clusters, and predictions
 
 ## Final presentation
 Results summarized in a [presentation for ClimateWins:](https://github.com/susanne-maj/ClimateWins/tree/main/Presentation).
