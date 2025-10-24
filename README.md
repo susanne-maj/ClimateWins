@@ -27,7 +27,8 @@ Due to the increase in extreme weather events, the non-profit organization Clima
 - Matplotlib, Seaborn, Plotly – visualising trends, clusters, and predictions
 
 ## Final presentation
-Results summarized in a [presentation for ClimateWins:](https://github.com/susanne-maj/ClimateWins/tree/main/Presentation).
+In a first step it was investigated if Machine Learning could be a good tool to use. Results are summarized in a [presentation for ClimateWins:](https://github.com/susanne-maj/ClimateWins/tree/main/Presentation).
+In the second step the correct method was determined [ClimateWins - predicting weather conditions with machine learning:](https://github.com/susanne-maj/ClimateWins/tree/main/Presentation)
 
 
 
